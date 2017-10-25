@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Jennifer Taylor 
+  Place: San Antonio, TX 
+  Bio: Jack of many trades, master of none :)  
+  Github: [jnn-tlr](https://github.com/jnn-tlr)  
